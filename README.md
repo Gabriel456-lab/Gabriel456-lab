@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gabriel456-lab 😁
+## Bem-vindo(a) ao perfil de Gabriel Andrade 😁
 
  <div>
    <a href="https://github.com/Gabriel456-lab">
