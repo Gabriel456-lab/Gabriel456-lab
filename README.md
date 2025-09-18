@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao perfil de Gabriel Andrade 😁
-##Já era pai foi hackeado kkkkk  Esses repositorio vai pra mão dos drake, troque essas senha viu!👀👀
 
  <div>
    <a href="https://github.com/Gabriel456-lab">
