@@ -1,30 +1,28 @@
-## Bem-vindo(a) ao perfil de Gabriel Andrade 😁
+# Olá, eu sou Gabriel Andrade! 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel456-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel456-lab&layout=compact&langs_count=6&theme=tokyonight" />
+Buscando constantemente evoluir e criar soluções eficientes através do código.
+
+---
+
+### 🛠️ Competências & Tecnologias
+
+Aqui estão as linguagens e tecnologias com as quais trabalho:
+
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 🌐 Vamos nos conectar?
 
-<br>
+Sinta-se à vontade para me acompanhar ou entrar em contato através das redes sociais:
 
-### ### Conecte-se comigo por aqui:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andrade-039282277/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_andrade9qr/)
 
-<div align="left">
-  <a href="https://www.instagram.com/gabriel_andrade9qr/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:ga6028566@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-andrade-039282277/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+---
